@@ -1,0 +1,36 @@
+html,
+body {
+  font-family: "Sour Gummy", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(253, 255, 247);
+  text-align: center;
+  background-image: url("background2.jpg");
+  margin-bottom: 50px;
+  background-position: 50%;
+}
+
+h1 {
+  font-size: 50px;
+  color: rgb(66, 46, 32);
+}
+
+p {
+  font-size: 19px;
+
+}
+
+canvas {
+  /* padding-top: 50px; */
+  display: block;
+  align-items: center;
+  margin: auto;
+  border-radius: 60px;
+  padding-bottom: 90px;
+  /* margin-bottom: 80px; */
+  /* padding-bottom: 60px; */
+  /* border-top-right-radius: 60px;*/
+  /* border-top-left-radius: 60px; */
+  border-bottom-left-radius: 120px;
+  border-bottom-right-radius: 120px;
+}
